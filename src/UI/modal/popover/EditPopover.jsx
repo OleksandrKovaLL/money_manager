@@ -1,7 +1,7 @@
 import React from 'react';
 import Popover from 'react-bootstrap/Popover';
 
-const EditPopover = (props) => {
+const EditPopover = () => {
     return (
   <Popover id="popover-basic">
 	<Popover.Header as="h3">Popover right</Popover.Header>

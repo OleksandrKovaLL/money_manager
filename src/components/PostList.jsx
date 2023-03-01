@@ -13,7 +13,7 @@ const PostList = ({posts, newSpend, setNewSpend, editPostTotal, deletePost, crea
 
     return (
         <div className="post-list">
-            {posts.map((post, index) =>
+            {posts.map((post) =>
                 <ListGroup>
                     <ListGroup.Item>
                         <PostItem 
