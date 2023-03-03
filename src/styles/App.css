@@ -99,3 +99,42 @@
     left: 0;
     top: 45px;
 }
+
+.date {
+    padding-left: 60%;
+    position: absolute;
+    left: 0;
+    margin-top: -25px;
+}
+
+.post__content {
+    width: 50%;
+}
+
+.modal-window {
+    padding-top: 100px;
+}
+
+.total-amount {
+    margin-left: 50%;
+    margin-top: 20%;
+}
+
+.popover-btn {
+    margin-left: 13px;
+}
+
+.no-posts {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.icon {
+    margin-right: 20px;
+    width: 3em;
+    height: 2em;
+}
+
+.bank-amount {
+    margin-left: 230px;
+}
